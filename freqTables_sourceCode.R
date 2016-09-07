@@ -18,3 +18,6 @@ freqTables <- function(df, cat.vars) {
   return(results)
 }
 
+save(freqTables, file="C:/Users/Hunter/Desktop/Grad_School/Programming/R-SAS/Rstats/USER-FUNCTIONS/freqTables.RData")
+save(freqTables, file="C:/Users/Hunter/Desktop/Grad_School/Research/Mehta/Analysis/crossroads/src/R-functions/freqTables.RData")
+
